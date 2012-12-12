@@ -1,0 +1,52 @@
+{
+  "name": "passport-doctape",
+  "version": "0.1.0",
+  "description": "doctape authentication strategy for Passport.",
+  "author": {
+    "name": "Sascha Reuter",
+    "email": "sascha@tape.io",
+    "url": "http://www.doctape.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/doctape/passport-doctape.git"
+  },
+  "bugs": {
+    "url": "http://github.com/doctape/passport-doctape/issues"
+  },
+  "main": "./lib/passport-doctape",
+  "dependencies": {
+    "pkginfo": "0.1.x",
+    "passport-oauth": "0.1.x"
+  },
+  "devDependencies": {
+    "vows": "0.6.x"
+  },
+  "scripts": {
+    "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "passport",
+    "doctape",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "_id": "passport-doctape@0.1.0",
+  "optionalDependencies": {},
+  "_engineSupported": true,
+  "_npmVersion": "1.1.24",
+  "_nodeVersion": "v0.6.19",
+  "_defaultsLoaded": true,
+  "_from": "passport-doctape"
+}
