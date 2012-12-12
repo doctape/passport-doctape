@@ -16,7 +16,7 @@
   },
   "main": "./lib/passport-doctape",
   "dependencies": {
-    "pkginfo": "0.1.x",
+    "pkginfo": "0.2.x",
     "passport-oauth": "0.1.x"
   },
   "devDependencies": {
