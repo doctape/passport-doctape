@@ -1,6 +1,6 @@
 {
   "name": "passport-doctape",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "doctape authentication strategy for Passport.",
   "author": {
     "name": "Sascha Reuter",
